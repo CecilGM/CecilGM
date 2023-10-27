@@ -1,4 +1,4 @@
- https://placehold.it/150/ffffff/ff0000?text=Mi repositorio
+ https://placehold.it/150/ffffff/ff0000?Mi repositorio
 
 - 👋 Hi, I’m @CecilGM
 - 👀 I’m interested in java
